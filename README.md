@@ -45,7 +45,7 @@ movies/ # Backend (Spring Boot)
 ## ⚙️ Installation & Setup
 
 ### 1. Clone Repository
-```bash
+bash
 git clone https://github.com/your-username/movies-gold.git
 cd movies-gold
 cd movies
