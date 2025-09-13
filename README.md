@@ -55,6 +55,7 @@ cd movies
 
 ## 📷 Screenshots
 
-![Home Page](https://github.com/user-attachments/assets/d978d54e-7377-40c0-90d0-c66aeca266c0)
 ![Movie Details](https://github.com/user-attachments/assets/0e8aabe0-e3a2-4594-b100-992d557cef84)
+![Home Page](https://github.com/user-attachments/assets/d978d54e-7377-40c0-90d0-c66aeca266c0)
+
 
